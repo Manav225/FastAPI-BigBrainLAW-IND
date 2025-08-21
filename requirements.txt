@@ -2,3 +2,4 @@ fastapi
 uvicorn
 torch
 transformers
+huggingface_hub==0.34.4
