@@ -3,3 +3,4 @@ uvicorn
 torch
 transformers
 huggingface_hub==0.34.4
+pip install torch==2.8.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
